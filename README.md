@@ -30,9 +30,7 @@ If you have questions, or you have a project, I'm available to help and also I'm
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EngAhmed21&theme=midnight-purple&hide_border=true)<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EngAhmed21&theme=midnight-purple&hide_border=true)](https://github.com/EngAhmed21/github-readme-stats)
- &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=EngAhmed21&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" alt="EngAhmed21" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EngAhmed21&theme=midnight-purple&hide_border=true)](https://github.com/EngAhmed21/github-readme-stats) &nbsp;<img src="https://github-readme-stats.vercel.app/api username=EngAhmed21&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" alt="EngAhmed21" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=EngAhmed21&theme=discord&no-frame=true&no-bg=false&margin-w=4)
