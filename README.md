@@ -13,7 +13,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I'm an Electronics and Electrical Communications Engineering student at Cairo University with interests in the field of
+A motivated Electronics and Electrical Communications Engineering student at Cairo University with interests in the field of
 Digital IC Design and Computer Architecture.
 I'm seeking to secure a challenging position in a reputable organization to expand my learning, knowledge, and skills.
 If you have questions, or you have a project, I'm available to help and also I'm looking for a new opportunities, you can always contact me.
