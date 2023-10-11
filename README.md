@@ -11,7 +11,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-### :woman_technologist: &nbsp;About Me :
+### :man_technologist: &nbsp;About Me :
 
 A motivated Electronics and Electrical Communications Engineering student at Cairo University with interests in the field of
 Digital IC Design and Computer Architecture.
