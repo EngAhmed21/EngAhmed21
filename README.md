@@ -13,10 +13,8 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-A motivated Electronics and Electrical Communications Engineering student at Cairo University with interests in the field of
-Digital IC Design and Computer Architecture.
-I'm seeking to secure a challenging position in a reputable organization to expand my learning, knowledge, and skills.
-If you have questions, or you have a project, I'm available to help and also, I'm looking for new opportunities, you can always contact me.
+A motivated fresh graduate from the Electronics and Electrical Communications Engineering (EECE) department at Cairo University, with a strong passion for digital IC design and a continuous drive to learn and grow. I am seeking a challenging position in a reputable organization where I can expand my knowledge, skills, and experience.
+If you have any questions, need support on a project, or are offering new opportunities, feel free to reach out — I'm always open to connecting and contributing.
 
 ### 🛠 &nbsp;Languages and Tools :
 <p align="left">
